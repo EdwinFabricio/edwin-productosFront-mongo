@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/edwin-productosFront-mongo/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/edwin-productosFront-mongo/static/js/main.ebb7d991.chunk.js",
+    "main.js.map": "/edwin-productosFront-mongo/static/js/main.ebb7d991.chunk.js.map",
+    "runtime-main.js": "/edwin-productosFront-mongo/static/js/runtime-main.1eee1997.js",
+    "runtime-main.js.map": "/edwin-productosFront-mongo/static/js/runtime-main.1eee1997.js.map",
+    "static/css/2.b32fb2a8.chunk.css": "/edwin-productosFront-mongo/static/css/2.b32fb2a8.chunk.css",
+    "static/js/2.e9db89d1.chunk.js": "/edwin-productosFront-mongo/static/js/2.e9db89d1.chunk.js",
+    "static/js/2.e9db89d1.chunk.js.map": "/edwin-productosFront-mongo/static/js/2.e9db89d1.chunk.js.map",
+    "index.html": "/edwin-productosFront-mongo/index.html",
+    "precache-manifest.86345096a08128043abe42f6526c4d9e.js": "/edwin-productosFront-mongo/precache-manifest.86345096a08128043abe42f6526c4d9e.js",
+    "service-worker.js": "/edwin-productosFront-mongo/service-worker.js",
+    "static/css/2.b32fb2a8.chunk.css.map": "/edwin-productosFront-mongo/static/css/2.b32fb2a8.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/edwin-productosFront-mongo/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.e9db89d1.chunk.js.LICENSE.txt": "/edwin-productosFront-mongo/static/js/2.e9db89d1.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/edwin-productosFront-mongo/static/media/line.567f5738.gif",
+    "static/media/theme.css": "/edwin-productosFront-mongo/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/edwin-productosFront-mongo/static/media/primeicons.79432094.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1eee1997.js",
+    "static/css/2.b32fb2a8.chunk.css",
+    "static/js/2.e9db89d1.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ebb7d991.chunk.js"
+  ]
+}
